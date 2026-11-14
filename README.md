@@ -3,8 +3,6 @@
 A browser-based survival strategy game built for the **NASA Space Apps Challenge 2026**.
 Challenge: **Build a Junior Astronaut Mission Trainer**.
 
-▶️ **Play the game:** https://mars-mission-game.github.io/
-
 📊 **Presentation:** [Mars_Mission_Presentation.pdf](Mars_Mission_Presentation.pdf)
 
 ## About the game
