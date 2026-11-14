@@ -48,7 +48,7 @@ HTML5, CSS3 and vanilla JavaScript (ES6+). No frameworks and no audio files.
 - Lujain Ayman Barakat
 - Belal Ahmed Abdel-Azim
 - Mariam Abdelfattah Hegazy
-- Hana
+- Hana Kareem Rehab  
 - Mostafa Mohamed Ibrahim
 
 ## Use of AI
